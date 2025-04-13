@@ -1,0 +1,27 @@
+# macOS system files
+.DS_Store
+# VS Code settings
+.vscode/
+# Virtual environment
+venv/
+# Python bytecode
+**/__pycache__/
+# Directory containing the test/draft files
+scratchpad/
+# PDF and Mac Pages files
+*.pdf
+*.pages
+# Ignore everything inside data/
+data/*
+# But keep the subdirectory itself
+!data/
+!data/.gitkeep
+# Ignore everything inside quickdraw_subset_np
+data/quickdraw_subset_np/*
+# But keep the subdirectory
+!data/quickdraw_subset_np/
+!data/quickdraw_subset_np/.gitkeep
+
+README.md
+
+

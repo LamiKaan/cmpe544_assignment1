@@ -1,0 +1,10 @@
+Class 0(rabbit): Trace = 21.2939, Frobenius Norm = 5.3163
+
+Class 1(yoga): Trace = 33.1844, Frobenius Norm = 9.4854
+
+Class 2(hand): Trace = 20.6306, Frobenius Norm = 5.3569
+
+Class 3(snowman): Trace = 20.5201, Frobenius Norm = 5.8401
+
+Class 4(motorbike): Trace = 21.5402, Frobenius Norm = 6.3672
+

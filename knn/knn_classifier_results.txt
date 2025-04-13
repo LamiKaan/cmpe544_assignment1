@@ -1,0 +1,2 @@
+Selected (best) parameters: Distance Metric =  l1, k = 17
+Test set accuracy = 0.6598

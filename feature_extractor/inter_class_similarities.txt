@@ -1,0 +1,50 @@
+Class 0(rabbit) vs. Class 1(yoga):
+Euclidean Distance Between Means: 1.4511
+Cosine Similarity Between Means: -0.1071
+Symmetric KL Divergence: 4562179868701773577322496.0000
+-----------------------------------------------------
+Class 0(rabbit) vs. Class 2(hand):
+Euclidean Distance Between Means: 1.7326
+Cosine Similarity Between Means: -0.0580
+Symmetric KL Divergence: 3.4951
+-----------------------------------------------------
+Class 0(rabbit) vs. Class 3(snowman):
+Euclidean Distance Between Means: 2.1213
+Cosine Similarity Between Means: -0.4790
+Symmetric KL Divergence: 8.4527
+-----------------------------------------------------
+Class 0(rabbit) vs. Class 4(motorbike):
+Euclidean Distance Between Means: 1.3388
+Cosine Similarity Between Means: 0.1062
+Symmetric KL Divergence: 3.2251
+-----------------------------------------------------
+Class 1(yoga) vs. Class 2(hand):
+Euclidean Distance Between Means: 2.0951
+Cosine Similarity Between Means: -0.3231
+Symmetric KL Divergence: 6471425476738440631418880.0000
+-----------------------------------------------------
+Class 1(yoga) vs. Class 3(snowman):
+Euclidean Distance Between Means: 2.3122
+Cosine Similarity Between Means: -0.4699
+Symmetric KL Divergence: 7470406350041400788123648.0000
+-----------------------------------------------------
+Class 1(yoga) vs. Class 4(motorbike):
+Euclidean Distance Between Means: 1.4211
+Cosine Similarity Between Means: 0.1882
+Symmetric KL Divergence: 5394578546996051663912960.0000
+-----------------------------------------------------
+Class 2(hand) vs. Class 3(snowman):
+Euclidean Distance Between Means: 2.3793
+Cosine Similarity Between Means: -0.2142
+Symmetric KL Divergence: 9.3860
+-----------------------------------------------------
+Class 2(hand) vs. Class 4(motorbike):
+Euclidean Distance Between Means: 2.3584
+Cosine Similarity Between Means: -0.6382
+Symmetric KL Divergence: 6.4157
+-----------------------------------------------------
+Class 3(snowman) vs. Class 4(motorbike):
+Euclidean Distance Between Means: 2.2187
+Cosine Similarity Between Means: -0.3116
+Symmetric KL Divergence: 10.4558
+-----------------------------------------------------
